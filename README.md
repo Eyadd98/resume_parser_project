@@ -98,8 +98,8 @@ Notes
 
 Authors
 -------
-- Project maintained by [Your Name / Team]
-- University/Organization: [Optional]
+- Project maintained by Eyad Ibrahim
+- University/Organization: Al-Balqaa Applied University 
 
 License
 -------
