@@ -1,0 +1,20 @@
+Cloud Computing Engineer
+
+Summary:
+Experienced software engineer specializing in cloud computing and web development.
+
+Skills:
+- Java
+- Javascript
+- Web Development
+- Git
+- AWS Cloud
+- Docker
+- Kubernetes
+
+Contact:
+Email: eyad.theking@gmail.com
+Phone: 962786197825
+
+Education:
+Bachelor's Degree in Computer Science from Applied University
